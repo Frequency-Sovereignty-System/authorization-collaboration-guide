@@ -1,5 +1,11 @@
 # Authorization & Collaboration Guide
-Current authoritative machine-readable authorization manifest: authorization_manifest_v2.json
+Authoritative machine-readable authorization manifest:
+
+- File: authorization_manifest_v2.final.json
+- SHA256: 11e0d4756483baf487bba5d218b840613b7727eb3f0227d14d81034c0da41a8c
+- IPFS CID: bafybeihz5yp2gyzvcwzccmvtum26ng7zaf57bul6avgnbjj2x4l34cal5m
+- Effective date: 2025-12-18
+
 
 Version 2.0
 
