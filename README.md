@@ -1,4 +1,6 @@
 # Authorization & Collaboration Guide
+Current authoritative machine-readable authorization manifest: authorization_manifest_v2.json
+
 Version 2.0
 
 
