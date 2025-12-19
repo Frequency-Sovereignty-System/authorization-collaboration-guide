@@ -2,8 +2,8 @@
 Authoritative machine-readable authorization manifest:
 
 - File: authorization_manifest_v2.final.json
-- SHA256: 11e0d4756483baf487bba5d218b840613b7727eb3f0227d14d81034c0da41a8c
-- IPFS CID: bafybeihz5yp2gyzvcwzccmvtum26ng7zaf57bul6avgnbjj2x4l34cal5m
+- SHA256: 98dee85b0275fe83a064e8ea992732c2ec17f25d799d83f5dcc870c7651adc1f
+- IPFS CID: bafybeif2o2zos6scuwscph3jv3c75zgv2ha53bmvra55na2ql2hjdb5oem
 - Effective date: 2025-12-18
 
 
