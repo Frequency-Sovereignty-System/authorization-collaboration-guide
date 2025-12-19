@@ -1,0 +1,165 @@
+{
+  "$schema": "https://spec.freq-sovereign.org/authorization-manifest/v2.0.json",
+  "document_type": "authorization_and_collaboration_manifest",
+  "version": "2.0",
+  "status": "active",
+
+  "system_identity": {
+    "root_identity": "tux133144.eth",
+    "system_code": "TUX-133.144~"
+  },
+
+  "meta": {
+    "title": "Authorization & Collaboration Manifest",
+    "language": "en",
+    "created_at_utc": "2025-12-18T00:00:00Z",
+    "effective_date": "2025-12-18",
+    "change_note": "v2.0 clarifies non-execution, explicit authorization, and machine-readable boundaries."
+  },
+
+  "integrity": {
+    "hash_algorithm": "sha256",
+    "document_sha256": "11e0d4756483baf487bba5d218b840613b7727eb3f0227d14d81034c0da41a8c",
+    "ipfs_cid": "bafybeihz5yp2gyzvcwzccmvtum26ng7zaf57bul6avgnbjj2x4l34cal5m",
+    "generated_at_utc": "2025-12-18T00:00:00Z",
+    "note": "SHA256 is recommended for verification. IPFS CID is optional."
+  },
+
+  "purpose": {
+    "description": "Defines how this system may be read, referenced, collaborated with, or explicitly authorized for applied use.",
+    "non_purpose": [
+      "automatic execution",
+      "default permission granting",
+      "agent-based operation",
+      "runtime services"
+    ]
+  },
+
+  "scope": {
+    "applies_to": [
+      "human readers",
+      "research collaborators",
+      "institutions",
+      "platforms",
+      "intermediaries"
+    ],
+    "excludes": [
+      "autonomous agents",
+      "automated systems without explicit human approval",
+      "implicit or inferred authorization"
+    ]
+  },
+
+  "authorization_principles": {
+    "default_state": "no_authorization",
+    "authorization_required_for": [
+      "execution",
+      "automation",
+      "operational embedding",
+      "service representation",
+      "derivative system implementation"
+    ],
+    "authorization_not_required_for": [
+      "reading",
+      "citation",
+      "academic discussion",
+      "human-to-human dialogue"
+    ]
+  },
+
+  "authority": {
+    "issuer": "tux133144.eth",
+    "issuer_type": "human_originator",
+    "delegation": "not_delegable",
+    "transferable": false,
+    "note": "Authorization is issued only by the originator bound to the Root Identity."
+  },
+
+  "authorization_properties": {
+    "explicit_only": true,
+    "opt_in": true,
+    "revocable": true,
+    "time_bound": true,
+    "non_inferable": true
+  },
+
+  "prohibited_assumptions": [
+    "authorization by access",
+    "authorization by reference",
+    "authorization by visibility",
+    "authorization by technical compatibility"
+  ],
+
+  "authoritative_documents": {
+    "root_declaration": {
+      "file": "ROOT_DECLARATION_v2.md",
+      "status": "authoritative"
+    },
+    "interface_declarations": {
+      "file": "INTERFACE_DECLARATIONS_v2.md",
+      "status": "authoritative"
+    },
+    "human_understanding_guide": {
+      "file": "HUMAN_UNDERSTANDING_GUIDE_v2.md",
+      "status": "interpretation_only"
+    },
+    "archive_layer": {
+      "name": "freq-archive-layer",
+      "status": "archival_only"
+    }
+  },
+
+  "authorization_record": {
+    "template_file": "AUTHORIZATION_RECORD_TEMPLATE.md",
+    "record_id_format": "AUTH-YYYYMMDD-###",
+    "minimum_fields": [
+      "issuer_root_identity",
+      "authorization_id",
+      "date_utc",
+      "authorized_party",
+      "authorized_scope",
+      "duration",
+      "revocation_conditions"
+    ],
+    "optional_cryptographic_proof": [
+      "EIP-191 signature",
+      "EIP-712 signature",
+      "PGP signature"
+    ],
+    "storage_note": "Authorization records may be stored privately or publicly. Public posting is optional. Validity depends on explicit issuance, not visibility."
+  },
+
+  "ai_and_automation_policy": {
+    "ai_training": "prohibited",
+    "simulation": "prohibited",
+    "agent_execution": "prohibited",
+    "allowed_machine_actions": [
+      "reference verification",
+      "integrity checking",
+      "authorization status validation"
+    ],
+    "note": "Parsing for compliance is allowed; using the material to train, simulate, or execute is prohibited."
+  },
+
+  "non_binding_clause": {
+    "statement": "This manifest does not create legal obligations, contracts, memberships, or guarantees.",
+    "participation": "voluntary",
+    "exit": "unconditional"
+  },
+
+  "supersedes": [
+    "authorization_guides_prior_to_v2.0"
+  ],
+
+  "archive_policy": {
+    "recorded": true,
+    "immutable_reference": true,
+    "historical_versions_retained": true
+  },
+
+  "signature": {
+    "required": false,
+    "recommended": false,
+    "note": "Signatures can be attached externally for stronger provenance. Not required for validity."
+  }
+}
