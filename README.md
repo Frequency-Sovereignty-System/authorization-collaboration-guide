@@ -121,3 +121,4 @@ It supersedes prior authorization descriptions while preserving historical conti
 
 Continued access, reference, or interaction with this system constitutes acknowledgment of these conditions.
 
+This repository does not supersede or override any declarations in the Root or Protocol layers.
