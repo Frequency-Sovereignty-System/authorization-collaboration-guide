@@ -63,7 +63,7 @@ Execution is never implied.
 Commercial use, platform integration, or applied deployment always fall under this category.
 
 
-Authorization Conditions
+# Authorization Conditions
 
 All authorization, if granted, is limited in scope, purpose, and duration.
 
@@ -78,7 +78,7 @@ Any use beyond the stated scope immediately voids authorization.
 Authorization, if granted, does not imply exclusivity unless explicitly stated.
 
 
-Human-in-the-Loop Requirement
+# Human-in-the-Loop Requirement
 
 Any valid use of this system requires active human participation or explicit human approval.
 
@@ -87,7 +87,7 @@ Autonomous execution, automated decision-making, or agent-based use without dire
 This system does not function as an autonomous service or decision authority.
 
 
-Prohibited Uses
+# Prohibited Uses
 
 This system may not be used for model training, persona synthesis, behavioral simulation, or automated reasoning systems.
 
@@ -96,7 +96,7 @@ This system may not be represented as a medical, legal, or professional service.
 This system may not be used to replace qualified human judgment or professional advice.
 
 
-Responsibility and Liability
+# Responsibility and Liability
 
 This system provides informational and structural material only.
 
@@ -107,7 +107,7 @@ The originator does not assume responsibility for decisions made by third partie
 Use of this system does not establish partnership, employment, fiduciary duty, agency, or exclusive relationship.
 
 
-Relationship to Other Documents
+# Relationship to Other Documents
 
 This guide operates under the Root Declaration version 2.0.
 
@@ -120,7 +120,7 @@ In case of conflict, the most restrictive interpretation applies.
 Interpretation of this document shall prioritize intent, boundary protection, and human authorship.
 
 
-Effective Status
+# Effective Status
 
 This document is effective upon publication.
 
