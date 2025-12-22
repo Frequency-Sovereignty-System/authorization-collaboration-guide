@@ -6,11 +6,10 @@ Authoritative machine-readable authorization manifest:
 - IPFS CID: bafybeif2o2zos6scuwscph3jv3c75zgv2ha53bmvra55na2ql2hjdb5oem
 - Effective date: 2025-12-18
 
-
+---
 Version 2.0
 
-
-Purpose
+# Purpose
 
 This document defines how this system may be read, referenced, collaborated with, or authorized for use.
 
@@ -19,7 +18,7 @@ Its purpose is to make boundaries explicit, responsibilities visible, and collab
 This repository does not provide products, automated services, executable systems, or guarantees of outcome.
 
 
-Scope
+# Scope
 
 This guide applies to human readers, research collaborators, institutions, platforms, and intermediaries.
 
@@ -35,7 +34,7 @@ Usage Levels
 All interactions with this system fall into three distinct levels.
 
 
-Read
+# Read
 
 Content may be read, reviewed, and observed.
 
@@ -44,7 +43,7 @@ Reading does not imply permission to use, execute, reproduce, automate, or deriv
 Read access is the default state.
 
 
-Reference
+# Reference
 
 Concepts, methods, and structures may be referenced with proper attribution.
 
@@ -55,7 +54,7 @@ Referencing does not grant execution rights.
 No automation, model training, system embedding, or derivative execution is permitted under reference use.
 
 
-Execute
+# Execute
 
 Any execution, implementation, operational use, productization, or system integration requires explicit authorization.
 
