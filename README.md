@@ -1,6 +1,35 @@
 # Authorization & Collaboration Guide
+## Authority and Scope Notice (Important)
+
+This repository provides human-readable authorization and collaboration guidelines
+for the Frequency Sovereignty System.
+
+It does not define system root authority,
+does not establish protocol specifications,
+and does not participate in interpretive precedence,
+version governance, or authority resolution.
+
+All system authority, version precedence, and interpretive resolution
+are defined exclusively by the Root Declaration v3.0:
+
+https://github.com/Frequency-Sovereignty-System/primary-frequency-root/blob/main/ROOT_DECLARATION_v3.0.md
+
+
 Authoritative machine-readable authorization manifest:
 
+## Non-Automatic Authorization Clarification
+
+Authorization described in this repository
+does not constitute automatic permission,
+implicit consent, or system-level enforcement.
+
+All authorization decisions require
+explicit human agreement and contextual judgment.
+
+This repository does not grant execution rights,
+control authority, or operational delegation.
+
+ 
 - File: authorization_manifest_v2.final.json
 - SHA256: 98dee85b0275fe83a064e8ea992732c2ec17f25d799d83f5dcc870c7651adc1f
 - IPFS CID: bafybeif2o2zos6scuwscph3jv3c75zgv2ha53bmvra55na2ql2hjdb5oem
@@ -129,3 +158,11 @@ It supersedes prior authorization descriptions while preserving historical conti
 Continued access, reference, or interaction with this system constitutes acknowledgment of these conditions.
 
 This repository does not supersede or override any declarations in the Root or Protocol layers.
+
+## Responsibility Disclaimer
+
+Unauthorized use, misinterpretation,
+or failure to follow the guidelines in this repository
+does not create responsibility, obligation,
+or liability for the system author or the system itself.
+
