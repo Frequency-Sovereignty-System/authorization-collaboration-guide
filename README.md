@@ -12,7 +12,7 @@ version governance, or authority resolution.
 All system authority, version precedence, and interpretive resolution
 are defined exclusively by the Root Declaration v3.0:
 
-https://github.com/Frequency-Sovereignty-System/primary-frequency-root/blob/main/ROOT_DECLARATION_v3.0.md
+https://github.com/Frequency-Sovereignty-System/primary-frequency-root/blob/main/ROOT%20DECLARATION_v3.0.md
 
 
 Authoritative machine-readable authorization manifest:
