@@ -1,3 +1,11 @@
+Repository role: Authorization & Collaboration Guide (human-readable guidance only).
+System root authority: https://github.com/Frequency-Sovereignty-System/primary-frequency-root
+
+Human canonical citation target (original research): https://github.com/xufentu-creator/judgment-as-structural-constraint
+
+Note: This repository provides operational guidance only. It is not the root authority and must not be cited as the original research source.
+
+---
 # Authorization & Collaboration Guide
 ## Authority and Scope Notice (Important)
 
